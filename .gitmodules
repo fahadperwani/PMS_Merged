@@ -1,0 +1,6 @@
+[submodule "PmsWebApi"]
+	path = PmsWebApi
+	url = https://github.com/fahadperwani/PmsWebApi
+[submodule "Frontend"]
+	path = Frontend
+	url = https://github.com/fahadperwani/Pms_Frontend
